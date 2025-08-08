@@ -1,0 +1,47 @@
+# TaxFraud-Detection 💰  
+**AI-Powered Detection of VAT Fraud Using Machine Learning**
+
+## 🔍 Summary  
+This project applies machine learning classification models to flag suspicious VAT filings using historical audit and revenue data. It was **deployed at the Kenya Revenue Authority (KRA)** and flagged over **$12M in fraudulent tax activity**.
+
+---
+
+## ⚙️ Technologies Used
+- Python (Pandas, Scikit-learn, CatBoost)
+- SQL (data pipeline from tax database)
+- Power BI (fraud pattern visualization)
+- RPA (automated audit flagging)
+
+---
+
+## 📊 Key Features
+- Fraud probability scoring per taxpayer
+- Anomaly detection using unsupervised learning
+- Classification models: Random Forest, CatBoost, Logistic Regression
+- Interactive dashboard for audit targeting
+
+---
+
+## 🧪 Impact Metrics
+- $12M in fraudulent VAT filings detected within 9 months
+- Audit targeting efficiency improved by 65%
+- 80,000+ monthly filings screened via automation
+
+---
+
+## 📸 Screenshots  
+![Fraud Heatmap](./screenshots/fraud_heatmap.png)  
+![Dashboard Overview](./screenshots/dashboard_overview.png)
+
+---
+
+## 🌍 Real-World Application  
+This system was integrated into KRA’s audit platform to streamline tax enforcement and prevent revenue leakage.
+
+> **Outcome**: Enhanced audit performance and transparency in tax compliance operations.
+
+---
+
+## 🔗 Related Work  
+- [VAT-Audit-Automation](https://github.com/AliceHyreen/VAT-Audit-Automation)  
+- [PublicRevenueDashboard](https://github.com/AliceHyreen/PublicRevenueDashboard)
